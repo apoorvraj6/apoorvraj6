@@ -1,7 +1,6 @@
 # Apoorv Raj - Full Stack Developer 🌐
 
-**📍 Ghaziabad, India** | **📧 [apoorvraj2003@gmail.com](mailto:apoorvraj2003@gmail.com)**  
-**[LinkedIn](https://www.linkedin.com/in/) •**  
+**📍 Ghaziabad, India** | **📧 [apoorvraj2003@gmail.com](mailto:apoorvraj2003@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/) 
 
 ---
 
